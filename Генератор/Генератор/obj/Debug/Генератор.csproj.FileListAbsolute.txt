@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\Генератор\Генератор\bin\Debug\Генератор.exe.config
+C:\Users\User\source\repos\Генератор\Генератор\bin\Debug\Генератор.exe
+C:\Users\User\source\repos\Генератор\Генератор\bin\Debug\Генератор.pdb
+C:\Users\User\source\repos\Генератор\Генератор\obj\Debug\Генератор.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Генератор\Генератор\obj\Debug\MainWindow.g.cs
+C:\Users\User\source\repos\Генератор\Генератор\obj\Debug\App.g.cs
+C:\Users\User\source\repos\Генератор\Генератор\obj\Debug\Генератор_MarkupCompile.cache
+C:\Users\User\source\repos\Генератор\Генератор\obj\Debug\Генератор_MarkupCompile.lref
+C:\Users\User\source\repos\Генератор\Генератор\obj\Debug\MainWindow.baml
+C:\Users\User\source\repos\Генератор\Генератор\obj\Debug\Генератор.g.resources
+C:\Users\User\source\repos\Генератор\Генератор\obj\Debug\Генератор.Properties.Resources.resources
+C:\Users\User\source\repos\Генератор\Генератор\obj\Debug\Генератор.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Генератор\Генератор\obj\Debug\Генератор.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Генератор\Генератор\obj\Debug\Генератор.exe
+C:\Users\User\source\repos\Генератор\Генератор\obj\Debug\Генератор.pdb
